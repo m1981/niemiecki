@@ -1,5 +1,4 @@
-Mam nadzieję, że te przykładowe pytania i odpowiedzi będą pomocne w Twojej nauce, Kamila. Powodzenia na egzaminie!
-
+Powodzenia na egzaminie!
 
 **Pyt 1.** [Welche Hobbys hast du?](https://translate.google.com/?sl=de&tl=pl&text=Welche%20Hobbys%20hast%20du%3F&op=translate) (Jakie masz hobby?)
 **Odp.** [Meine Hobbys sind Mode, Rollenspiele, Musik hören – besonders Metal, und Treffen mit Freunden.](https://translate.google.com/?sl=de&tl=pl&text=Meine%20Hobbys%20sind%20Mode%2C%20Rollenspiele%2C%20Musik%20h%C3%B6ren%20%E2%80%93%20besonders%20Metal%2C%20und%20Treffen%20mit%20Freunden.&op=translate) (Moje hobby to moda, gry RPG, słuchanie muzyki – szczególnie metalowej i spotkania z przyjaciółmi.)
