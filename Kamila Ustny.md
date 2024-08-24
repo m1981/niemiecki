@@ -143,18 +143,57 @@ b) Odpowiedź ucznia:
 
 c) Tabela słówek:
 
-| Polski                | Niemiecki                     | Link URL                                                                                                                 |
-|-----------------------|-------------------------------|--------------------------------------------------------------------------------------------------------------------------|
-| Jak spędziłaś weekend?| Wie hast du das Wochenende verbracht? | [Wie hast du das Wochenende verbracht?](https://translate.google.com/?sl=de&tl=pl&text=Wie%20hast%20du%20das%20Wochenende%20verbracht%3F&op=translate) |
-| sobota                | Samstag                        | [Samstag](https://translate.google.com/?sl=de&tl=pl&text=Samstag&op=translate)                                          |
-| gry RPG               | Rollenspiele                   | [Rollenspiele](https://translate.google.com/?sl=de&tl=pl&text=Rollenspiele&op=translate)                                |
-| siostra               | Schwester                      | [Schwester](https://translate.google.com/?sl=de&tl=pl&text=Schwester&op=translate)                                      |
-| festyn                | das Fest                       | [das Fest](https://translate.google.com/?sl=de&tl=pl&text=das%20Fest&op=translate)                                      |
-| niedziela             | Sonntag                        | [Sonntag](https://translate.google.com/?sl=de&tl=pl&text=Sonntag&op=translate)                                          |
-| słuchać muzyki        | Musik hören                    | [Musik hören](https://translate.google.com/?sl=de&tl=pl&text=Musik%20h%C3%B6ren&op=translate)                            |
-| praca                 | die Arbeit                     | [die Arbeit](https://translate.google.com/?sl=de&tl=pl&text=die%20Arbeit&op=translate)                                  |
-| sklep osiedlowy       | das Stadtteilgeschäft          | [das Stadtteilgeschäft](https://translate.google.com/?sl=de&tl=pl&text=das%20Stadtteilgesch%C3%A4ft&op=translate)        |
-| kasjerka              | die Kassiererin                | [die Kassiererin](https://translate.google.com/?sl=de&tl=pl&text=die%20Kassiererin&op=translate)                        |
+Oczywiście, oto pełna tabela z niemieckimi słówkami i odpowiednimi linkami do Google Translate:
 
+| Polski                | Niemiecki                     | Link URL                                                                                                       |
+|-----------------------|-------------------------------|----------------------------------------------------------------------------------------------------------------|
+| autobus               | der Bus                       | [der Bus](https://translate.google.com/?sl=de&tl=pl&text=der%20Bus&op=translate)                              |
+| brat                  | der Bruder                    | [der Bruder](https://translate.google.com/?sl=de&tl=pl&text=der%20Bruder&op=translate)                        |
+| czas wolny            | die Freizeit                  | [die Freizeit](https://translate.google.com/?sl=de&tl=pl&text=die%20Freizeit&op=translate)                    |
+| czuję się             | ich fühle mich                | [ich fühle mich](https://translate.google.com/?sl=de&tl=pl&text=ich%20f%C3%BChle%20mich&op=translate)         |
+| dzień                 | der Tag                       | [der Tag](https://translate.google.com/?sl=de&tl=pl&text=der%20Tag&op=translate)                              |
+| dzień tygodnia        | der Wochentag                 | [der Wochentag](https://translate.google.com/?sl=de&tl=pl&text=der%20Wochentag&op=translate)                  |
+| dziękuję              | danke                         | [danke](https://translate.google.com/?sl=de&tl=pl&text=danke&op=translate)                                     |
+| dzisiaj               | heute                         | [heute](https://translate.google.com/?sl=de&tl=pl&text=heute&op=translate)                                     |
+| film                  | der Film                      | [der Film](https://translate.google.com/?sl=de&tl=pl&text=der%20Film&op=translate)                             |
+| festyn                | das Fest                      | [das Fest](https://translate.google.com/?sl=de&tl=pl&text=das%20Fest&op=translate)                             |
+| gry RPG               | Rollenspiele                  | [Rollenspiele](https://translate.google.com/?sl=de&tl=pl&text=Rollenspiele&op=translate)                      |
+| hobby                 | die Hobbys                    | [die Hobbys](https://translate.google.com/?sl=de&tl=pl&text=die%20Hobbys&op=translate)                         |
+| intensywność          | die Intensität                | [die Intensität](https://translate.google.com/?sl=de&tl=pl&text=die%20Intensit%C3%A4t&op=translate)           |
+| jak                   | wie                           | [wie](https://translate.google.com/?sl=de&tl=pl&text=wie&op=translate)                                         |
+| kasjerka              | die Kassiererin               | [die Kassiererin](https://translate.google.com/?sl=de&tl=pl&text=die%20Kassiererin&op=translate)               |
+| końcówka tygodnia     | das Ende der Woche            | [das Ende der Woche](https://translate.google.com/?sl=de&tl=pl&text=das%20Ende%20der%20Woche&op=translate)     |
+| koleżanka             | die Freundin                  | [die Freundin](https://translate.google.com/?sl=de&tl=pl&text=die%20Freundin&op=translate)                     |
+| lata                  | Jahre                         | [Jahre](https://translate.google.com/?sl=de&tl=pl&text=Jahre&op=translate)                                     |
+| magazyn o modzie      | die Modezeitschrift           | [die Modezeitschrift](https://translate.google.com/?sl=de&tl=pl&text=die%20Modezeitschrift&op=translate)       |
+| metalowa muzyka       | Metal-Musik                   | [Metal-Musik](https://translate.google.com/?sl=de&tl=pl&text=Metal-Musik&op=translate)                         |
+| moda                  | die Mode                      | [die Mode](https://translate.google.com/?sl=de&tl=pl&text=die%20Mode&op=translate)                             |
+| muzyka                | die Musik                     | [die Musik](https://translate.google.com/?sl=de&tl=pl&text=die%20Musik&op=translate)                           |
+| na imię               | heißt                         | [heißt](https://translate.google.com/?sl=de&tl=pl&text=heißt&op=translate)                                     |
+| najchętniej           | am liebsten                   | [am liebsten](https://translate.google.com/?sl=de&tl=pl&text=am%20liebsten&op=translate)                       |
+| niedziela             | Sonntag                       | [Sonntag](https://translate.google.com/?sl=de&tl=pl&text=Sonntag&op=translate)                                 |
+| oglądać               | sehen                         | [sehen](https://translate.google.com/?sl=de&tl=pl&text=sehen&op=translate)                                     |
+| praca                 | die Arbeit                    | [die Arbeit](https://translate.google.com/?sl=de&tl=pl&text=die%20Arbeit&op=translate)                         |
+| przygotowywać się     | vorbereiten                   | [vorbereiten](https://translate.google.com/?sl=de&tl=pl&text=vorbereiten&op=translate)                         |
+| przyjaciel            | der Freund                    | [der Freund](https://translate.google.com/?sl=de&tl=pl&text=der%20Freund&op=translate)                         |
+| przyjaciółka          | die Freundin                  | [die Freundin](https://translate.google.com/?sl=de&tl=pl&text=die%20Freundin&op=translate)                     |
+| poświęcać czas        | verbringen                    | [verbringen](https://translate.google.com/?sl=de&tl=pl&text=verbringen&op=translate)                           |
+| relaksujący           | entspannt                     | [entspannt](https://translate.google.com/?sl=de&tl=pl&text=entspannt&op=translate)                             |
+| rodzeństwo            | die Geschwister               | [die Geschwister](https://translate.google.com/?sl=de&tl=pl&text=die%20Geschwister&op=translate)               |
+| siostra               | die Schwester                 | [die Schwester](https://translate.google.com/?sl=de&tl=pl&text=die%20Schwester&op=translate)                   |
+| sklep osiedlowy       | das Stadtteilgeschäft         | [das Stadtteilgeschäft](https://translate.google.com/?sl=de&tl=pl&text=das%20Stadtteilgesch%C3%A4ft&op=translate) |
+| sobota                | Samstag                       | [Samstag](https://translate.google.com/?sl=de&tl=pl&text=Samstag&op=translate)                                 |
+| słuchać               | hören                         | [hören](https://translate.google.com/?sl=de&tl=pl&text=h%C3%B6ren&op=translate)                                |
+| spotykać się          | treffen                       | [treffen](https://translate.google.com/?sl=de&tl=pl&text=treffen&op=translate)                                 |
+| spędzać               | verbringen                    | [verbringen](https://translate.google.com/?sl=de&tl=pl&text=verbringen&op=translate)                           |
+| święto                | der Feiertag                  | [der Feiertag](https://translate.google.com/?sl=de&tl=pl&text=der%20Feiertag&op=translate)                     |
+| tydzień               | die Woche                     | [die Woche](https://translate.google.com/?sl=de&tl=pl&text=die%20Woche&op=translate)                           |
+| wyglądać              | aussehen                      | [aussehen](https://translate.google.com/?sl=de&tl=pl&text=aussehen&op=translate)                               |
+| wstawać               | aufstehen                     | [aufstehen](https://translate.google.com/?sl=de&tl=pl&text=aufstehen&op=translate)                             |
+| zakupy                | das Shoppen, Einkaufen        | [Shoppen](https://translate.google.com/?sl=de&tl=pl&text=Shoppen&op=translate)                                 |
+| zazwyczaj             | normalerweise, gewöhnlich     | [normalerweise](https://translate.google.com/?sl=de&tl=pl&text=normalerweise&op=translate)                     |
+| z                     | mit                           | [mit](https://translate.google.com/?sl=de&tl=pl&text=mit&op=translate)                                         |
+
+Uwaga: Powyższa tabela została stworzona w oparciu o wyrazy występujące w naszej wcześniejszej wymianie wiadomości, jednak upewnij się, że zawiera wszystkie słówka które chcesz przećwiczyć. Może być konieczne dodanie niektórych słów na podstawie Twoich indywidualnych potrzeb do nauki.
 
 
