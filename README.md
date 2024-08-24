@@ -1,4 +1,12 @@
 Powodzenia na egzaminie!
+### Co robiłam na wakacjach
+1. [Ich war mit meiner Familie an einem See.](https://translate.google.com/?sl=de&tl=pl&text=Ich%20war%20mit%20meiner%20Familie%20an%20einem%20See.&op=translate)  (Byłam z rodziną nad jeziorem.)
+2. [Wir hatten Hütten am Wasser.](https://translate.google.com/?sl=de&tl=pl&text=Wir%20hatten%20H%C3%BCtten%20am%20Wasser.&op=translate)  (Mieliśmy domki nad wodą.)
+3. [Tagsüber ging ich zum Strand und badete im See.](https://translate.google.com/?sl=de&tl=pl&text=Tags%C3%BCber%20ging%20ich%20zum%20Strand%20und%20badete%20im%20See.&op=translate)  (W dzień chodziłam na plażę i kąpałam się w jeziorze.)
+4. [Abends ging ich zum Lagerfeuer.](https://translate.google.com/?sl=de&tl=pl&text=Abends%20ging%20ich%20zum%20Lagerfeuer.&op=translate)  (Wieczorem chodziłam na ognisko.)
+<hr>
+
+### Inne pytania
 
 **Pyt 1.** [Welche Hobbys hast du?](https://translate.google.com/?sl=de&tl=pl&text=Welche%20Hobbys%20hast%20du%3F&op=translate) (Jakie masz hobby?)
 **Odp.** [Meine Hobbys sind Mode, Rollenspiele, Musik hören – besonders Metal, und Treffen mit Freunden.](https://translate.google.com/?sl=de&tl=pl&text=Meine%20Hobbys%20sind%20Mode%2C%20Rollenspiele%2C%20Musik%20h%C3%B6ren%20%E2%80%93%20besonders%20Metal%2C%20und%20Treffen%20mit%20Freunden.&op=translate) (Moje hobby to moda, gry RPG, słuchanie muzyki – szczególnie metalowej i spotkania z przyjaciółmi.)
